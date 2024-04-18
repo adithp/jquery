@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.wrapper {
+    width: 90%;
+    max-width: 1280px;
+    margin: 0 auto;
+    
+}
+#image-slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.item {
+    background-color: aqua;
+}
+img{
+    
+}
